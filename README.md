@@ -1,1 +1,1 @@
-# trident_klipper_config
+# trident klipper config
